@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Ileryadeh/Ileryadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on frontend and mobile development.  
+Interested in building user-focused applications using React, React Native, and modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tools and Tech
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C/C++
+
+### Frontend & Mobile
+- React.js
+- React Native
+- Flutter
+- HTML
+- CSS
+
+### Backend & Database
+- Supabase
+- PostgreSQL
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- Figma
+
+---
+
+## 🌱 Goals
+- Gain real-world development experience
+- Contribute to impactful projects
+- Improve frontend and mobile engineering skills
+
+---
+
+## 📫 Connect With Me
+- Email: illyriapdy@gmail.com
