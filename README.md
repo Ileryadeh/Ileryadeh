@@ -1,36 +1,14 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Illyria Dy 👋
 
-Computer Science student focused on frontend and mobile development.  
-Interested in building user-focused applications using React, React Native, and modern web technologies.
+Computer Science student interested in frontend, web, and software development. Passionate about building user-focused applications and exploring modern technologies through academic and personal projects.
 
 ---
 
 ## 🚀 Tools and Tech
-
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- C/C++
-
-### Frontend & Mobile
-- React.js
-- React Native
-- Flutter
-- HTML
-- CSS
-
-### Backend & Database
-- Supabase
-- PostgreSQL
-- Firebase
-
-### Tools
-- Git
-- GitHub
-- Figma
-
----
+- JavaScript, TypeScript, Python, C/C++
+- React.js, React Nativive, Flutter, HTML, CSS
+- PostgresSQL
+- Git, Github, Figma
 
 ## 🌱 Goals
 - Gain real-world development experience
